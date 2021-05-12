@@ -4,6 +4,7 @@ test.py
 venv_pdf_watermarker/
 .vscode/
 docs/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
